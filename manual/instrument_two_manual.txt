@@ -1,0 +1,36 @@
+INSTRUMENT TWO MANUAL
+
+Instrument Two is a drum machine designed to make the creation of fast rhythms and complex drum patterns more accessible. It’s standalone; connect power and headphones to get started.
+
+Operation
+=========
+
+Power On
+--------
+To power on the instrument, connect the USB power cable provided. The instrument will power via a computer USB socket or a powered USB hub. It will take a few seconds for the instrument to boot.
+
+Drums
+-----
+The four drum pads are velocity-sensitive; the harder you strike them, the louder the sound. There are four drum kits. To change the drum kit, use the Kit/Pattern menu button to select ‘Kit’, then use one of the four kit/pattern numeric buttons to make a selection. Press a numeric button a second time to access additional sounds within a kit.
+
+Rhythmic Pattern Generator (RPG)
+--------------------------------
+Each time a drum pad is stuck, the RPG is activated. Use the rhythm slider to select a preset rhythm. The RPG numeric buttons temporarily edit the rhythms. The Slow/fast toggle button changes the speed of the RPG in respect of the global tempo.
+
+Patterns
+--------
+The instrument has eight patterns, selected using the kit/pattern numeric buttons when the ‘Pattern’ state is selected. Each button gives access to two patterns; press the button again to toggle between them. 
+
+Record and Undo
+---------------
+Press the record button while the play button is active to record to the currently selected pattern. The Undo button deletes mistakes, removing the last rhythm played by the RPG. Press and hold the Undo button to clear the entire pattern. Unfortunately, pattern data is lost when switching off the instrument.
+
+Echo
+----
+The echo slider introduces a tempo synchronised delay. It’s off when in a position furthest to the left. When moved to the right, it gradually mixes the delayed signal while increasing feedback.
+Tempo and Volume
+The up and down buttons either alter the global tempo or volume of the instrument, depending on which is selected by the tempo/volume menu button.
+
+MIDI Clock
+----------
+The instrument transmits a MIDI clock signal via the USB socket; it can act as a clock source for software like Ableton Live. The instrument appears as a class-compliant MIDI device when connected to a computer.

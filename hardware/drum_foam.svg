@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="69.48033247289982mm"
+   height="69.48100306433128mm"
+   viewBox="0 0 69.48033247289982 69.48100306433128"
+   version="1.1"
+   id="svg837"
+   sodipodi:docname="drum_foam.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1350"
+     inkscape:window-height="788"
+     id="namedview839"
+     showgrid="false"
+     inkscape:zoom="2.3533638"
+     inkscape:cx="131.30141"
+     inkscape:cy="131.30268"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg837" />
+  <g
+     id="Sketch036"
+     transform="translate(-25.345423,100.061411) scale(1,-1)"
+     style="stroke:#fe0000;stroke-opacity:1;stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="Sketch036_w0000"
+       d="M 83.21909882351801 40.06374037258135 L 80.23713950462744 43.045699691471924 A 1.5 1.5 0 1 0 82.3585 45.167L 85.34041825311148 42.185060776488044 A 34.25 34.25 0 0 1 85.3103 88.4869L 82.3696223528145 85.48338779891215 A 1.5 1.5 0 0 0 80.226 87.5821L 83.18608889421243 90.6055784639553 A 34.25 34.25 0 0 1 36.9501 90.5754L 39.932053 87.5934268832186 A 1.5 1.5 0 0 0 37.8107 85.4721L 34.82875465404429 88.4540845420545 A 34.25 34.25 0 0 1 34.8288 42.185L 37.810732633434576 45.16702003503157 A 1.5 1.5 0 1 0 39.9321 43.0457L 36.950075195901775 40.0637330267286 A 34.25 34.25 0 0 1 83.2191 40.0637"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#fe0000;stroke-opacity:1" />
+    <title
+       id="title834">b'Sketch036'</title>
+  </g>
+</svg>
